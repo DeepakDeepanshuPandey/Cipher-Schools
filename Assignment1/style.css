@@ -1,0 +1,51 @@
+.container{
+  height: 300px;
+  width: 100%;
+}
+
+#display{
+  width: 100%;
+  font-size: 72px;
+  text-align: center;
+  margin: 0px auto;
+  border-radius: 15px;
+  padding: 20px;
+  width: 200px;
+  border: 3px solid black;
+  height: 80px;
+}
+
+.buttons{
+  text-align: center;
+  margin-top: 80px;
+}
+#start
+{
+  border-radius: 10px;
+  font-size: 200%;
+  margin-right: 240px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+#stop
+{
+  border-radius: 10px;
+  font-size: 200%;
+  margin-right: 190px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+#reset
+{
+  border-radius: 10px;
+  font-size: 200%;
+  margin-left: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+h1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 600%;
+  
+}
